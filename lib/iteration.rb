@@ -39,7 +39,7 @@ def total_even_pairs(src)
   # the number was even. Review the operator documentation if you've forgotten
   # this!
   
-  even_pairs = []
+  even_pairs = 0
   src_index = 0
   
   while src_index < src.count do
