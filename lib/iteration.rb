@@ -48,5 +48,5 @@ def total_even_pairs(src)
     end
     src_index += 1
   end
-  even_pairs
+  even_pairs[]
 end
